@@ -9,3 +9,8 @@ Among my projects:
 - CRM for mechanics of the car service. 
 
 *I am always ready to try something new and learn something unusual.*
+
+
+### Languages and tools
+   <i class="devicon-java-plain-wordmark"></i>
+         
