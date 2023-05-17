@@ -12,5 +12,6 @@ Among my projects:
 
 
 ### Languages and tools
-   <i class="devicon-java-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="js" width="40" height="40"/>&nbsp;
+          
          
